@@ -12,7 +12,7 @@ A passionate frontend developer from [Paradeep]
 
 ## 🎉 Welcome to My GitHub Profile!  
 
-![Animated GIF](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif) 
+![Welcome GIF](./assets/welcome.gif)
 
 
 ## 🛠️ Skills and Tools
@@ -70,7 +70,7 @@ A passionate frontend developer from [Paradeep]
 ---
 
 ### 📅 My Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=swastiswagat&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=swastiswagat)](https://git.io/streak-stats)
 
 ---
 
