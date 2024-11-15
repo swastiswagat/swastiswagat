@@ -1,12 +1,12 @@
 # Hi 👋, I'm Swasti Swagat
-A passionate frontend developer from [Your Location].
+A passionate frontend developer from [Paradeep]
 
 🌟 **Bio**
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Skills or Technologies]
-- 👯 I’m looking to collaborate on [Type of Projects You’re Interested In]
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Fun Fact About Yourself]
+- 🔭 I’m currently working on [Student]
+- 🌱 I’m currently learning [FullStack Development]
+- 👯 I’m looking to collaborate on [Frontend type projects]
+- 📫 How to reach me: [swagatswasti@gmail.com]
+- ⚡ Fun fact: [I'm not just a coder; I'm also a coffee enthusiast who believes that great code is fueled by great coffee! ☕]
 
 ---
 
@@ -24,9 +24,11 @@ A passionate frontend developer from [Your Location].
 ---
 
 ### 📫 Where to Find Me
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/username)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swasti-swagat-492018270/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/explore/my)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/edit/28321459)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swasti_swagat/)
+[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/swagat_swasti)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/swastiswagat)
 
 ---
