@@ -10,6 +10,11 @@ A passionate frontend developer from [Paradeep]
 
 ---
 
+## 🎉 Welcome to My GitHub Profile!  
+
+![Animated GIF](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif) 
+
+
 ## 🛠️ Skills and Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
@@ -51,8 +56,7 @@ A passionate frontend developer from [Paradeep]
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=swastiswagat&theme=default&hide_border=true)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swastiswagat&theme=default&hide_border=true)
 
 ---
 
