@@ -1,12 +1,12 @@
 # Hi 👋, I'm Swasti Swagat
-A passionate frontend developer from [Paradeep]
+A passionate frontend developer from Paradeep
 
 🌟 **Bio**
-- 🔭 I’m currently working on [Student]
-- 🌱 I’m currently learning [FullStack Development]
-- 👯 I’m looking to collaborate on [Frontend type projects]
-- 📫 How to reach me: [swagatswasti@gmail.com]
-- ⚡ Fun fact: [I'm not just a coder; I'm also a coffee enthusiast who believes that great code is fueled by great coffee! ☕]
+- 🔭 I’m currently working on Student.
+- 🌱 I’m currently learning FullStack Development.
+- 👯 I’m looking to collaborate on Frontend type projects.
+- 📫 How to reach me: swagatswasti@gmail.com.
+- ⚡ Fun fact: I'm not just a coder; I'm also a coffee enthusiast who believes that great code is fueled by great coffee! ☕.
 
 ---
 
@@ -58,15 +58,6 @@ A passionate frontend developer from [Paradeep]
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swastiswagat&theme=default&hide_border=true)
-
----
-
-### 🏆 Achievements
-- 🏅 **Total Stars Earned:** [3]
-- 📊 **Total Commits (2024):** [19]
-- 📝 **Total PRs:** [0]
-- ❓ **Total Issues:** [0]
-- 🚀 **Contributed to last year:** [0]
 
 ---
 
