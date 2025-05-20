@@ -1,8 +1,11 @@
 # Hi 👋, I'm Swasti Swagat
 A passionate frontend developer from Paradeep
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swastiswagat&label=Profile%20views&color=0e75b6&style=flat" alt="swastiswagat" /> </p>
+
+
 🌟 **Bio**
-- 🔭 I’m currently working on Student.
+- 🔭 I’m currently working on Frontend Development.
 - 🌱 I’m currently learning FullStack Development.
 - 👯 I’m looking to collaborate on Frontend type projects.
 - 📫 How to reach me: swagatswasti@gmail.com.
@@ -12,8 +15,7 @@ A passionate frontend developer from Paradeep
 
 ## 🎉 Welcome to My GitHub Profile!  
 
-![Welcome GIF](./assets/welcome.gif)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swastiswagat" alt="swastiswagat" /></a> </p>
 
 ## 🛠️ Skills and Tools
 
