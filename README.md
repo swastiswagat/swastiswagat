@@ -53,7 +53,6 @@ A passionate frontend developer from Paradeep
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swastiswagat&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastiswagat&layout=compact)
 
 ---
 
