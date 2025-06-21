@@ -52,7 +52,7 @@ A passionate frontend developer from Paradeep
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swastiswagat&show_icons=true&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=swastiswagat)](https://git.io/streak-stats)
 
 ---
 
