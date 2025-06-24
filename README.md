@@ -58,7 +58,9 @@ A passionate frontend developer from Paradeep
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=swastiswagat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=swastiswagat&theme=tokyonight)](https://git.io/streak-stats)
+
+
 
 ---
 
